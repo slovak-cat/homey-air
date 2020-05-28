@@ -10,7 +10,7 @@
     "text" : {
         "good": "Dobre ",
         "evening": "večer",
-        "afternoon": "popoludní",
+        "afternoon": "popoludnie",
         "morning": "ráno",
         "night": "noc",
         "today": "Dnes je ",
@@ -37,9 +37,9 @@
     },
     "battery": {
         "title": "Informácie o batérii",
-        "in": " in ",
-        "has": " has ",
-        "left": "% left"
+        "in": " je ",
+        "has": " má ",
+        "left": "% zostáva"
     },
     "sensor": {
         "title": "Informácie o senzoroch",
@@ -60,8 +60,8 @@
             "brightnessdevice": "Jas zariadenia"
         },
         "appearance": {
-            "logo": "Logo (url)",
-            "background": "Pozadie (url)",
+            "logo": "(url) Loga",
+            "background": "(url) Pozadia",
             "opacity": "Nepriehľadnosť pozadia",
             "clock": "Zobraziť čas",
             "zoom": "Zoom"
